@@ -2,9 +2,11 @@
 
 ## About Me
 
-- 🌟 Passionate software developer focused on creating impactful solutions.
-- 🚀 Experienced in building full-stack web applications and scalable backend systems.
-- 💼 Proficient in modern web technologies, backend development, and cloud services.
+- I am a passionate software developer dedicated to creating impactful solutions.
+
+- I specialize in backend development, web development, and contributing to open-source projects.
+
+- Currently, I’m focused on improving my skills and building innovative projects that make a difference.
 
 ---
 
