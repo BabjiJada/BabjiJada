@@ -18,18 +18,18 @@
 ### Languages 
 
 
-- Python, JavaScript, Java, SQL 
+-  Java, JavaScript, Python, Kotlin 
 
 ### Web Development                                                                                    
-- Flask, React.js, Next.js, Node.js, PHP
+- React, Next.js, Node.js, HTML, CSS, PHP, WordPress, Postman
 
 ### Backend and Databases
 
-- MySQL, PostgreSQL, AWS (EC2, S3), REST APIs
+-Spring Boot, Flask, MySQL, PostgreSQL, AWS (EC2 & S3)
 
 ### Tools and APIs
 
-- Git, Docker, GitHub API, Postman
+- GitHub API, Alpha Vantage API, NLP, Docker, REST APIs
 
 ---
 
