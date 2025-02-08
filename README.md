@@ -8,7 +8,7 @@
 
 ---
 
-## 💻 Skills
+## 💻 Technology Stack
 
 ### Languages 
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🚉 Highlighted Projects
+## 🚉 Projects I worked on
 
 ### Railway Management System
 
@@ -62,13 +62,13 @@
 ## 📜 Certifications
 
 - **AWS Academy Cloud Architecting** (AWS, 2024)
-- AWS Academy Cloud Foundations(AWS,2025)
+- **AWS Academy Cloud Foundations** (AWS,2025)
 - **Statistics Using Python** (2023)
 
 ---
 
 ## 📫 Connect With Me
 
-- **GitHub**: [https://github.com/BabjiJada](https://github.com/BabjiJada)
-- **Email**: [jadababji09@gmail.com](mailto\:jadababji09@gmail.com)
-- **LinkedIn**: https\://www\.linkedin.com/babji-jada
+- **GitHub**: https://github.com/BabjiJada
+- **Email**: jadababji09@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/babji-jada
