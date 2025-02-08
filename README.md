@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Babji Jada
+![image](https://github.com/user-attachments/assets/6bc1a9b8-b475-421b-adda-cb05c7962cc0)# 👋 Hi, I’m Babji Jada
 
 ## About Me
 
@@ -15,8 +15,8 @@
 
 - Python, JavaScript, Java, SQL
 
-### Web Development                                                                                      ![download](https://github.com/user-attachments/assets/7c1b88a4-636b-4503-aafe-a2efc1cc9f58)
-
+### Web Development                                                                                    
+                                                                                                                    ![image](https://github.com/user-attachments/assets/6f4ad240-c36a-4547-b4b1-b60d50bac855)
 - Flask, React.js, Next.js, Node.js, PHP
 
 ### Backend and Databases
