@@ -10,12 +10,12 @@
 
 ## 💻 Skills
 
-### Languages ![download](https://github.com/user-attachments/assets/7c1b88a4-636b-4503-aafe-a2efc1cc9f58)
+### Languages 
 
 
 - Python, JavaScript, Java, SQL
 
-### Web Development
+### Web Development                                                                                      ![download](https://github.com/user-attachments/assets/7c1b88a4-636b-4503-aafe-a2efc1cc9f58)
 
 - Flask, React.js, Next.js, Node.js, PHP
 
