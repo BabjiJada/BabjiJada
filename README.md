@@ -78,10 +78,10 @@
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect with Me  
 
-- **GitHub**: https://github.com/BabjiJada
-- **Email**: jadababji09@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/babji-jada
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/BabjiJada)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadababji09@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/babji-jada)  
 
 *From* BabjiJada
