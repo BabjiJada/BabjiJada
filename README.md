@@ -29,21 +29,6 @@
 - Git, Docker, GitHub API, Postman
 
 ---
-📊 GitHub Stats
-
-
-
-Total Stars Earned: 0
-
-Total Commits: 476
-
-Total PRs: 3
-
-Total Issues: 0
-
-Contributed to (last year): 0
-
----
 
 ## 🚉 Projects I worked on
 
@@ -89,3 +74,5 @@ Contributed to (last year): 0
 - **GitHub**: https://github.com/BabjiJada
 - **Email**: jadababji09@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/babji-jada
+
+*From *https://github.com/BabjiJada
