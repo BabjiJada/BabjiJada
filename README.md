@@ -8,6 +8,9 @@
 
 - Currently, I’m focused on improving my skills and building innovative projects that make a difference.
 
+- 🎓 4 years of experience as a class representative, fostering teamwork and leadership
+
+
 ---
 
 ## 💻 Technology Stack
