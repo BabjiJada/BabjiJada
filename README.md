@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Babji Jada
+# 👋 Hi, I’m Kavya Sree
 
 ## About Me
 
