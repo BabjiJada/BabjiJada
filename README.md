@@ -32,7 +32,7 @@
 - GitHub API, Alpha Vantage API, NLP, Docker, REST APIs
 
 ---
-![Babji Jada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BabjiJada&show_icons=true&theme=radical)
+# ![Babji Jada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BabjiJada&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BabjiJada&layout=compact&theme=radical)
 
